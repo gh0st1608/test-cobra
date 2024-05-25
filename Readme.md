@@ -10,3 +10,6 @@
 # Ejecución Composer
 - Ingresar al contenedor web-1 y ejecutar `composer install`.
 
+# Test
+- Ingresar al browser y escribir `http://localhost`.
+
